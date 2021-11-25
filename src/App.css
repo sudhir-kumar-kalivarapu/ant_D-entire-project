@@ -1,0 +1,28 @@
+@import '~antd/dist/antd.css';
+
+.App{
+  align-items: center;
+}
+.logo{
+  background-color: beige;
+  font-size: large;
+}
+.header1{
+  padding: 0%;
+}
+.col2{
+  display:flex;
+  justify-content: end;
+}
+.carousel{
+  background-color:brown
+}
+.bg-1{
+  background-color: burlywood;
+}
+.bg-2{
+  background-color: chartreuse;
+}
+.bg-3{
+  background-color: darkcyan;
+}
